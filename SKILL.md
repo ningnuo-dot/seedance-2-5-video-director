@@ -23,6 +23,7 @@ Translate a video idea, existing prompt, storyboard, or labeled image/video/audi
 4. Read [references/multimodal-patterns.md](references/multimodal-patterns.md) whenever the request includes reference media or any specialist capability.
 5. Read [references/realistic-direction-patterns.md](references/realistic-direction-patterns.md) whenever the request includes realistic human acting, dialogue, emotional conflict, a relationship scene, sports/variety live coverage, obstacle physics, or a user-supplied example whose structure should be adapted.
 6. Read [references/official-examples.md](references/official-examples.md) only when a concrete provider example is needed to resolve an underspecified structure, optimize an existing prompt, or check a difficult mode. Do not copy an example mechanically.
+7. Read [references/golden-structure-template.md](references/golden-structure-template.md) only when the user names 黄金结构/6+2/八模块 output, bullet time, one-take spatial anchors, white-model/previz rehearsal, or a MiniMax H3 adaptation. It supplements the selected primary mode and never replaces the mode workflow.
 
 ## Boundary
 
